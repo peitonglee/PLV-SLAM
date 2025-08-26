@@ -9,10 +9,10 @@ This work is currently being reviewed on "Information Fusion". The current versi
 ## Getting Started
 Our work is based on PLP-SLAM, and all the code environments are the same as that of this project. ([code](https://github.com/peitonglee/Structure-PLP-SLAM-Backup.git))
 
-### Plane_Obj_Vectorization
+### Plane_Obj_Vectorization demo
 See [Here](https://github.com/peitonglee/PLV-SLAM/blob/main/Plane_Obj_Vectorization/README.md)
 
-### Path_Planning_Base_Lines
+### Path_Planning_Base_Lines demo
 See [Here](https://github.com/peitonglee/PLV-SLAM/blob/main/Path_Planning_Base_Lines/README.md)
 
 ## The Graphical Abstract
