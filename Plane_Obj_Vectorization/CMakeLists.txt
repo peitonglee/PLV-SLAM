@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.10)
 
 # 设置项目名称和版本
-project(PCAExample VERSION 1.0)
+project(Plane_Obj_Vectorization VERSION 1.0)
 
 
 set(CMAKE_BUILD_TYPE "Debug")
