@@ -1,7 +1,7 @@
 # PLV-SLAM: Real-Time Visual SLAM with Parametric Vectorized Planar Object Modeling for Geometric–Semantic Coupling
 
 ## Declaration
-This work is currently being reviewed on "Information Fusion". The current version of the code is an offline version of the core code and can be used for testing and visualization. All the codes will be released after the paper is accepted.
+This work is currently being reviewed on "IEEE Transactions Automation Science and Engineering". The current version of the code is an offline version of the core code and can be used for testing and visualization. All the codes will be released after the paper is accepted.
 
 ## Related Works
 [1] F. Shu, et al. "Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras". IEEE International Conference on Robotics and Automation (ICRA), 2023. (https://arxiv.org/abs/2207.06058) updated arXiv v3 with supplementary materials. 
